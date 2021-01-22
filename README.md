@@ -26,8 +26,8 @@ Skilled in Python and related frameworks , Flutter , C++, React.js , Javascript 
 <br><br><br><br><br><br>
 
 
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=bliqlegend&show_icons=true&hide_border=true&count_private=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bliqlegend&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash261&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash261&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 
 ## Technologies
