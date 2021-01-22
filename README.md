@@ -16,28 +16,18 @@ Skilled in Python and related frameworks , Flutter , C++, React.js , Javascript 
 
 ## My Featured Repositories
 
-<a href="https://github.com/abhibalani/covid19-data-visualization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=covid19-data-visualization" />
+<a href="https://github.com/yash261/near-me">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yash261&repo=near-me" />
 </a>
-<a href="https://github.com/abhibalani/tinder-bot-python">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=tinder-bot-python" />
+<a href="https://github.com/yash261/covid_tracker">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yash261&repo=covid_tracker" />
 </a>
 
 <br><br><br><br><br><br>
 
-<a href="https://github.com/abhibalani/emr_lambda">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=emr_lambda" />
-</a>
 
-<a href="https://github.com/abhibalani/crypto-watch">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhibalani&repo=crypto-watch" />
-</a>
-
-
-<br><br><br><br><br><br>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=yash261&show_icons=true&theme=tokyonight&show_icons=true&title_color=04d17c&text_color=05ff97&bg_color=0a192f" width="100%"/>
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=bliqlegend&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bliqlegend&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 
 ## Technologies
