@@ -4,7 +4,7 @@
 **abhibalani/abhibalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am **Yash Goel** currently working at [Delhi Technological University](http://dtu.ac.in/). I am a Flutter Developer having a strong passion for new technologies, very autodidact and love to build new things from the ground up. 
+I am **Yash Goel** currently studying at [Delhi Technological University](http://dtu.ac.in/). I am a Flutter Developer having a strong passion for new technologies, very autodidact and love to build new things from the ground up. 
 Skilled in Python and related frameworks , Flutter , C++, React.js , Javascript , Databases, etc.
 
 [![linkedin badge](https://img.shields.io/badge/Yash_Goel-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-goel-78298a192)
