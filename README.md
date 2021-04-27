@@ -29,9 +29,8 @@ Skilled in Python and related frameworks , Flutter , C++, React.js , Javascript 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash261&show_icons=true&hide_border=true&count_private=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash261&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?yash261" frameborder="0"></iframe>
 
-## Technologies
+## Technologies 
 
 
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> 
