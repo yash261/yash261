@@ -8,7 +8,6 @@ I am **Yash Goel** currently studying at [Delhi Technological University](http:/
 Skilled in Python and related frameworks , Flutter , C++, React.js , Javascript , Databases, etc.
 
 [![linkedin badge](https://img.shields.io/badge/Yash_Goel-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-goel-78298a192)
-[![twitter badge](https://img.shields.io/badge/@yashgoel-30302f?style=flat&logo=twitter)](https://twitter.com/goelyashgoel30)
 
 <!--Checkout my blog: [OddBlogger.com](https://oddblogger.com)-->
 
