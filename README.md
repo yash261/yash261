@@ -1,8 +1,5 @@
 # Hi 👋
 
-<!--
-**abhibalani/abhibalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 I am **Yash Goel** currently studying at [Delhi Technological University](http://dtu.ac.in/). I am a Flutter Developer having a strong passion for new technologies, very autodidact and love to build new things from the ground up. 
 Skilled in Python and related frameworks , Flutter , C++, React.js , Javascript , Databases, etc.
@@ -24,8 +21,8 @@ Skilled in Python and related frameworks , Flutter , C++, React.js , Javascript 
 
 <br><br><br><br><br><br>
 
-
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash261&show_icons=true&hide_border=true&count_private=true&theme=dark)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash261)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash261&show_icons=true&hide_border=true&count_private=true&theme=dark) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash261&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
