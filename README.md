@@ -15,18 +15,13 @@ Skilled in Python and related frameworks , Flutter , C++, React.js , Javascript 
 
 ## My Featured Repositories
 
-<a href="https://github.com/yash261/near-me">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yash261&repo=near-me" />
-</a>
-<a href="https://github.com/yash261/covid_tracker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yash261&repo=covid_tracker" />
-</a>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yash261&repo=near-me&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yash261&repo=covid_tracker&theme=dark)
 
-<br><br><br><br><br><br>
+## Stats
 
-
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash261&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash261&hide_progress=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash261&show_icons=true&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash261&hide_progress=true&count_private=true&theme=dark)]
 
 
 ## Technologies 
