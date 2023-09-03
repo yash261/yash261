@@ -13,17 +13,6 @@ Skilled in Python and related frameworks , Flutter , C++, React.js , Javascript 
 
 <!--[Customize your Github Profile](https://oddblogger.com/personalizing-github-profile/)-->
 
-## My Featured Repositories
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yash261&repo=near-me&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yash261&repo=covid_tracker&theme=dark)
-
-## Stats
-
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash261&show_icons=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash261&hide_progress=true&count_private=true&theme=dark)]
-
-
 ## Technologies 
 
 
